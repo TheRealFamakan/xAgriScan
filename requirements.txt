@@ -1,0 +1,17 @@
+# Data Analysis & Visualization
+pandas
+matplotlib
+seaborn
+Pillow
+
+# Machine Learning (PyTorch)
+torch
+torchvision
+
+# Backend API
+flask
+flask-cors
+
+# Jupyter Notebook support
+ipykernel
+jupyter
